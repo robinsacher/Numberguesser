@@ -5,8 +5,8 @@ Sacher
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |    23.08.2022   | 0.0.1   | Heute habe ich mein Projekt teilweise geplant |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|       |      |                                                              |
+|       |   |                                                              |
 
 ## 1 Informieren
 
