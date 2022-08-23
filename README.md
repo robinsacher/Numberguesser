@@ -12,14 +12,14 @@ Sacher
 
 ### 1.1 Ihr Projekt
 
-In meinem Projekt will ich einen Numberguesser programieren.
+In meinem Projekt will ich einen Numberguesser programmieren.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |    Muss             |    Funktionaleanforderung  | Als Spieler möchte ich eine Zahl zwischen 0 und 200 eingeben können, damit ich gewinnen kann.|
-| 2 |        kann         |    Qualitätsanforderung  |   Als Spieler möchte ich die Zeit, die ich benötigt habe sehen,damit ich weis wann ich mich verbessert habe.|
+| 2 |        kann         |    Qualitätsanforderung  |   Als Spieler möchte ich die Zeit, die ich benötigt habe sehen,damit ich weis, wann ich mich verbessert habe.|
 
 
 
@@ -50,7 +50,7 @@ Total:
 
 ## 3 Entscheiden
 
-Meine Entscheidung ist, dass das Prjekt machbar ist und dass ich es durchführen werde. 
+Meine Entscheidung ist, dass das Projekt machbar ist und dass ich es durchführen werde. 
 
 ## 4 Realisieren
 
