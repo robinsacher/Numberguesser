@@ -34,7 +34,8 @@ In meinem Projekt will ich einen Numberguesser programieren.
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+<img width="629" alt="image" src="https://user-images.githubusercontent.com/110891559/186109925-6686c3bb-1996-4fef-be36-e315830bf7e4.png">
+
 
 ## 2 Planen
 
