@@ -18,8 +18,8 @@ In meinem Projekt will ich einen Numberguesser programmieren.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    Muss             |    Funktionaleanforderung  | Als Spieler möchte ich eine Zahl zwischen 0 und 200 eingeben können, damit ich gewinnen kann.|
-| 2 |        kann         |    Qualitätsanforderung  |   Als Spieler möchte ich die Zeit, die ich benötigt habe sehen,damit ich weis, wann ich mich verbessert habe.|
+| 1    |    Muss             |    Funktionale Anforderung  | Als Spieler möchte ich eine Zahl zwischen 0 und 200 eingeben können, damit ich gewinnen kann.|
+| 2 |       kann         |    Qualitätsanforderung  |   Als Spieler möchte ich die Zeit, die ich benötigt habe sehen,damit ich weis, wann ich mich verbessert habe.|
 
 
 
@@ -27,8 +27,8 @@ In meinem Projekt will ich einen Numberguesser programmieren.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Programm wird gestarted        | Zahl wird eingegeben         |  Text welcher sagt, dass meine Zahl richtig, zu hoch oder zu tief ist. |
-| ...  |              |         |                   |
+| 1.1  |      Programm wird gestartet      | Zahl wird eingegeben         |  Text welcher sagt, dass meine Zahl richtig, zu hoch oder zu tief ist. |
+| 1.2  |      Zahl wird eingegeben         | Stoppuhr wird gestartet    |        Stoppuhr zählt so lange die Zeit, bis die Zahl richtig ist, dann setzt sie sich zurück.       |
 
 
 
@@ -50,7 +50,7 @@ Total:
 
 ## 3 Entscheiden
 
-Meine Entscheidung ist, dass das Projekt machbar ist und dass ich es durchführen werde. 
+Meine Entscheidung ist, dass das Projekt machbar ist und dass dieser Numberguesser eine gut und witzige idee ist. 
 
 ## 4 Realisieren
 
