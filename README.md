@@ -42,7 +42,7 @@ In meinem Projekt will ich einen Numberguesser programmieren.
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 2022.08.23 11:30 Uhr      |   Sacher  | Planung des Projektes             |   2 Stunden|
-| ...  |       |           |              |               |
+| 1.B |     2022.08.30 11:30  | Sacher          |   Progarmmieren           |     2 Stunden          |
 
 Total: 
 
