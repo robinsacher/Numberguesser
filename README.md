@@ -1,8 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Sacher
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,7 +12,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In meinem Projekt will ich einen Numberguesser programieren.
 
 ### 1.2 User Stories
 
@@ -42,7 +40,7 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
+| 1.A  |       |   Sacher  |              |               |
 | ...  |       |           |              |               |
 
 Total: 
