@@ -5,7 +5,7 @@ Sacher
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |    23.08.2022   | 0.0.1   | Heute habe ich mein Projekt teilweise geplant |
-| ...      | ...     |                                                              |
+| 27.08.2022    | 0.0.2   |     Heute habe ich mein Projekt realisiert                                                         |
 |   ...    |  ... |                                                              |
 
 ## 1 Informieren
@@ -42,7 +42,8 @@ In meinem Projekt will ich einen Numberguesser programmieren.
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 2022.08.23 11:30 Uhr      |   Sacher  | Planung des Projektes             |   2 Stunden|
-| 1.B |     2022.08.30 11:30  | Sacher          |   Progarmmieren           |     2 Stunden          |
+| 1.B |     2022.08.30 11:30 | Sacher          |   Progarmmieren von meinem Numberguesser         |     2 Stunden          |
+|1.1c | 2022.08.30. 11:30 | Sacher | Stoppuhr implementieren| 1 Stunde
 
 Total: 
 
@@ -56,8 +57,8 @@ Meine Entscheidung ist, dass das Projekt machbar ist und dass dieser Numberguess
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |27.08.2022       |  Sacher         |       2 Stunden        |         1 Stunde 30 Minuten          |
+| 1.B |  30.08.2022     |      Sacher     | 1 Stunde              |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
