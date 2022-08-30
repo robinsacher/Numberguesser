@@ -68,10 +68,10 @@ Meine Entscheidung ist, dass das Projekt machbar ist und dass dieser Numberguess
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
+| 1.1  | 30.08.2022  |  Wenn richtig steht trotzdem Zahl zu niedrig    |     Sacher   |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit: Meine Arbeit war fast efolgreich^. Ein kleiner Fehler gibt es aber noch.
 
 ### 5.2 Exploratives Testen
 
