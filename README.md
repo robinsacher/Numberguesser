@@ -5,7 +5,7 @@ Sacher
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |    23.08.2022   | 0.0.1   | Heute habe ich mein Projekt teilweise geplant |
-| 27.08.2022    | 0.0.2   |     Heute habe ich mein Projekt realisiert                                                         |
+|    27.08.2022    | 0.0.2   |     Heute habe ich mein Projekt realisiert                                                         |
 |   ...    |  ... |                                                              |
 
 ## 1 Informieren
@@ -18,17 +18,22 @@ In meinem Projekt will ich einen Numberguesser programmieren.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    Muss             |    Funktionale Anforderung  | Als Spieler möchte ich eine Zahl zwischen 0 und 200 eingeben können, damit ich gewinnen kann.|
-| 2 |       kann         |    Qualitätsanforderung  |   Als Spieler möchte ich die Zeit, die ich benötigt habe sehen,damit ich weis, wann ich mich verbessert habe.|
-
+| 1    |    Muss         |    Funktionale Anforderung                | Als Spieler möchte ich eine Zahl zwischen 0 und 100 eingeben können, damit ich gewinnen kann.|
+| 2    |       kann      |    Qualitätsanforderung                   |   Als Spieler möchte ich die Zeit, die ich benötigt habe sehen,damit ich weis, wann ich mich verbessert habe.|
+| 3    |       Muss      |    Als Spieler möchte ich wenn ich die Zahl richtig erraten habe, einen kleinen Text angezeigt bekommen der sagt das ich gewonnen habe.
 
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Programm wird gestartet      | Zahl wird eingegeben         |  Text welcher sagt, dass meine Zahl richtig, zu hoch oder zu tief ist. |
-| 1.2  |      Zahl wird eingegeben         | Stoppuhr wird gestartet    |        Stoppuhr zählt so lange die Zeit, bis die Zahl richtig ist, dann setzt sie sich zurück.       |
+|1.1   | Programm wird gestartet | 
+|1.2 |  Programm wird gestartet | eine Zahl | Text welcher sagt, dass meine Zahl zu tief ist. |
+| 1.3  |      Programm wird gestartet      | Zahl wird eingegeben         |  Text welcher sagt, dass meine Zahl zu hoch ist. |
+| 1.4| Programm wird gestartet |eine Zahl wird eingegeben | Eint Text welcher sagt, dass meine Zahl richtig ist
+| 1.5  |      Programm wird gestartet         |  Zahl und Enter  |        Stoppuhr wird gestartet und zählt so lange die Zeit, bis die Zahl richtig eingegeben wurde, dann setzt sie sich zurück.       |
+|1.6| Stoppuhr ist am laufen | Enter | Stoppuhr wird beendet und zeigt Zeit an. |
+
 
 
 
