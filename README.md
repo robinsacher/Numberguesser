@@ -93,4 +93,4 @@ Fazit: Mein Projekt war meiner meinung sehr erfolgreicht, nicht nur weil Alles s
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein
