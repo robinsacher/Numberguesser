@@ -28,10 +28,10 @@ In meinem Projekt will ich einen Numberguesser programmieren, in dem die Zeit ge
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|1.1   | Programm wird gestartet | Enter | eine Random Zahl wird generiert | 
+|1.1   | Programm wird gestartet | Enter | eine random Zahl wird generiert | 
 |1.2 |  Programm wird gestartet | eine Zahl | Text welcher sagt, dass meine Zahl zu tief ist. |
 | 1.3  |      Programm wird gestartet      | Zahl wird eingegeben         |  Text welcher sagt, dass meine Zahl zu hoch ist. |
-| 1.4| Programm wird gestartet |eine Zahl wird eingegeben | Eint Text welcher sagt, dass meine Zahl richtig ist
+| 1.4| Programm wird gestartet |eine Zahl wird eingegeben | Eint Text welcher sagt, dass meine Zahl richtig ist.|
 | 1.5  |      Programm wird gestartet         |  Zahl und Enter  |        Stoppuhr wird gestartet und zählt so lange die Zeit, bis die Zahl richtig eingegeben wurde, dann setzt sie sich zurück.       |
 |1.6| Stoppuhr ist am laufen | Enter | Stoppuhr wird beendet und zeigt Zeit an. |
 | 1.7|Programm wird gestarrtet |Zahlenbereich in dem man spielen möchte | Erstellt eine random zahl zwischen 1 und deiner Eingabe |
