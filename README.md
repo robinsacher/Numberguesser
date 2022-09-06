@@ -64,8 +64,8 @@ Meine Entscheidung ist, dass das Projekt machbar ist und dass dieser Numberguess
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |27.08.2022       |  Sacher         |       2 Stunden        |         1 Stunde 30 Minuten          |
 | 1.B |  30.08.2022     |      Sacher     | 1 Stunde              |                   |
+|1.C | 06.09.2022 | Sacher | 30 Minuten | 1 Stunde |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -74,9 +74,9 @@ Meine Entscheidung ist, dass das Projekt machbar ist und dass dieser Numberguess
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  | 30.08.2022  |  Wenn richtig steht trotzdem Zahl zu niedrig    |     Sacher   |
-| ...  |       |          |        |
+| 1.2  |     06.09.2022  |     Alles funktioniert so wie es soll     |   Sacher     |
 
-Fazit: Meine Arbeit war fast efolgreich^. Ein kleiner Fehler gibt es aber noch.
+Fazit: Mein Projekt war meiner meinung sehr erfolgreicht, nicht nur weil Alles so funktioniert wie es soll, sondern auch, weil ich persöhnlich sehr viel dabei gelernt habe.
 
 ### 5.2 Exploratives Testen
 
