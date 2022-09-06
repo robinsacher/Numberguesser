@@ -5,14 +5,14 @@ Sacher
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |    23.08.2022   | 0.0.1 | Heute habe ich mein Projekt teilweise geplant |
-|    27.08.2022   | 0.0.2 | Heute habe ich mein Projekt realisiert  |                                                       |
-|    06.09.2022   | 0.0.3 | Heute hab eich eine Stopuhr implementiert, welche die Zeit misst bis die richtige Zahl eingegeben wurde. |                                 |    06.09.2022   | 0.0.4 | Heute habe ich die Funktion hinzugefügt, dass der Spieler seinen Zahlenbereich in dem er spielen möchte selbst bestimmen kann. |                           
+|    27.08.2022   | 0.0.2 | Heute habe ich meinen Numberguesser realisiert |                                                       |
+|    06.09.2022   | 0.0.3 | Heute hab eich eine Stopuhr implementiert, welche die Zeit misst bis die richtige Zahl eingegeben wurde und die Funktion hinzugefügt, dass der Spieler seinen Zahlenbereich in dem er spielen möchte selbst bestimmen kann.  |                                
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-In meinem Projekt will ich einen Numberguesser programmieren.
+In meinem Projekt will ich einen Numberguesser programmieren, in dem die Zeit gestoppt wird die man braucht bis man die richtige Zahl erraten hat.
 
 ### 1.2 User Stories
 
