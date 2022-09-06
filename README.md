@@ -28,7 +28,7 @@ In meinem Projekt will ich einen Numberguesser programmieren, in dem die Zeit ge
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|1.1   | Programm wird gestartet | 
+|1.1   | Programm wird gestartet | Enter | eine Random Zahl wird generiert | 
 |1.2 |  Programm wird gestartet | eine Zahl | Text welcher sagt, dass meine Zahl zu tief ist. |
 | 1.3  |      Programm wird gestartet      | Zahl wird eingegeben         |  Text welcher sagt, dass meine Zahl zu hoch ist. |
 | 1.4| Programm wird gestartet |eine Zahl wird eingegeben | Eint Text welcher sagt, dass meine Zahl richtig ist
