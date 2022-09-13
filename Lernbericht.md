@@ -38,4 +38,4 @@ Besonders gut war, wie ich mir meine Pausen eingeteilt habe und wie mein Workflo
 
 Nicht so gut war meine Organisation, denn ich hatte am Schluss noch ein Idee, welche ich implementieren wollte. diese Idee hat aber nicht so gut funktioniert, weil ich am Ende zu wenig Zeit hatte.
 
-**VBV**: Am anfang einen genauen Plan erstellen an den ich mich dann über das ganze Projekt halte, also nicht mehr Spontan arbeiten, denn so kann man dumme Fehler vermeiden.
+**VBV**: Am Anfang einen genauen Plan erstellen an den ich mich dann über das ganze Projekt halte, also nicht mehr spontan arbeiten, denn so kann man dumme Fehler vermeiden.
