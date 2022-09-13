@@ -29,13 +29,13 @@ Kleiner Text, der Beschreibt wie eine Random Zahl funktioniert und wie man einen
 
 Screenshot welcher Code zeigt
 
-Gif welches den Ablauf zeigt wie ich eine Random Zahl programiere und diese dann Ausgebe.
+Gif welches den Ablauf zeigt wie ich eine Random Zahl programmiere und diese dann Ausgebe.
 
 
 # Reflektion zum Arbeitsprozess
 
 Besonders gut war, wie ich mir meine Pausen eingeteilt habe und wie mein Workflow war. 
 
-Nicht so gut war meine Organisation, denn ich hatte am Schluss noch ein Idee, welche ich implementieren wollte, die aber nicht so gut funktioniert hat oder ich einfach zu wenig zeit hatte.
+Nicht so gut war meine Organisation, denn ich hatte am Schluss noch ein Idee, welche ich implementieren wollte. diese Idee hat aber nicht so gut funktioniert, weil ich am Ende zu wenig Zeit hatte.
 
 **VBV**: Am anfang einen genauen Plan erstellen an den ich mich dann über das ganze Projekt halte, also nicht mehr Spontan arbeiten, denn so kann man dumme Fehler vermeiden.
