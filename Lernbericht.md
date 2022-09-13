@@ -7,25 +7,31 @@ In meinem Projekt habe ich einen Numberguesser programmiert, in dem der Benutzer
 
 ## Was habe ich gelernt?
 
-Ich habe gelernt wie man den Benutzer eine Zahl eingeben lässt und diese dann als Maximalzahl für die zufällig
+Ich habe gelernt wie man den Benutzer eine Zahl eingeben lässt und diese dann als Maximalzahl für die zufällige Zahl verwenden kann.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Man lässt den Benutzer einen Wert eingeben, dieser wird dann in einen double konvertiert und dann z.B. als "num" initialisiert.
+Schlussendlich muss man noch ein ezufäälige Zahl generieren mit dem Maximalwert num + 1.
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
+<img width="535" alt="image" src="https://user-images.githubusercontent.com/110891559/189839026-a43a9fd2-f9cd-4bb3-a9f2-bb9c9249add0.png">
+
+https://www.youtube.com/watch?v=ZXbzotEUr0w
+
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Kleiner Text, der Beschreibt wie eine Random Zahl funktioniert und wie man einen vom Benutzer eingegebenen Wert als Maximalwert verwendet werden kann.
+
+Screenshot welcher Code zeigt
+
+Youtube Video welches das Erstellen einer Random Zahl genaustens erklärt.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Besonders gut war, wie ich mir meine Pausen eingeteilt habe und wie mein Workflow war. 
 
-👎 und etwas, was nicht gut lief.
+Nicht so gut war meine Organisation, denn ich hatte am Schluss noch ein Idee, welche ich implementieren wollte, die aber nicht so gut funktioniert hat oder ich einfach zu wenig zeit hatte.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Am anfang einen genauen Plan erstellen an den ich mich dann über das ganze Projekt halte, also nicht mehr Spontan arbeiten, denn so kann man dumme Fehler vermeiden.
