@@ -196,6 +196,7 @@ Fazit: Mein Projekt war meiner meinung erfolgreicht, obwohl am Ende das Programm
 Getestet von Julian Hitz
 
 ## 6 Auswerten
+https://github.com/robinsacher/Numberguesser/blob/main/Lernbericht.md
 
 
 
