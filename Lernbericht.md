@@ -1,13 +1,16 @@
 # Lern-Bericht
 Sacher Robin
 
+
 ## Einleitung
 
 In meinem Projekt habe ich einen Numberguesser programmiert, in dem der Benutzer den Zahlenbereich eingeben kann, in welchem er spielen möchte
 
+
 ## Was habe ich gelernt?
 
 Ich habe gelernt wie man den Benutzer eine Zahl eingeben lässt und diese dann als Maximalzahl für die zufällige Zahl verwenden kann.
+
 
 ## Beschreibung
 
@@ -19,8 +22,6 @@ Schlussendlich muss man noch ein ezufäälige Zahl generieren mit dem Maximalwer
 
 ![693kbzm2 (1)](https://user-images.githubusercontent.com/110891559/189850819-e403b796-8fc7-46e7-90a6-d23bd30d4168.gif)
 
-![693kbzm2 (1)](https://user-images.githubusercontent.com/110891559/189850958-a1f27e8f-e135-4fc6-b735-4505e7e5c8a1.gif)
-
 
 ## Verifikation
 
@@ -28,7 +29,8 @@ Kleiner Text, der Beschreibt wie eine Random Zahl funktioniert und wie man einen
 
 Screenshot welcher Code zeigt
 
-Youtube Video welches das Erstellen einer Random Zahl genaustens erklärt.
+Gif welches den Ablauf zeigt wie ich eine Random Zahl programiere und diese dann Ausgebe.
+
 
 # Reflektion zum Arbeitsprozess
 
