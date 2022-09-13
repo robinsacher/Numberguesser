@@ -96,8 +96,5 @@ Fazit: Mein Projekt war meiner meinung erfolgreicht, obwohl am Ende das Programm
 
 Getestet von Julian Hitz
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein
+https://github.com/robinsacher/Lernbericht-Numberguesser/blob/main/README.md
