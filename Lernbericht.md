@@ -17,7 +17,8 @@ Schlussendlich muss man noch ein ezufäälige Zahl generieren mit dem Maximalwer
 
 <img width="535" alt="image" src="https://user-images.githubusercontent.com/110891559/189839026-a43a9fd2-f9cd-4bb3-a9f2-bb9c9249add0.png">
 
-https://www.youtube.com/watch?v=ZXbzotEUr0w
+![693kbzm2 (1)](https://user-images.githubusercontent.com/110891559/189850819-e403b796-8fc7-46e7-90a6-d23bd30d4168.gif)
+
 
 
 ## Verifikation
