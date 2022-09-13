@@ -4,7 +4,7 @@ Sacher Robin
 
 ## Einleitung
 
-In meinem Projekt habe ich einen Numberguesser programmiert, in dem der Benutzer den Zahlenbereich eingeben kann, in welchem er spielen möchte
+In meinem Projekt habe ich einen Numberguesser programmiert, in dem der Benutzer den Zahlenbereich eingeben kann, in welchem er spielen möchte.
 
 
 ## Was habe ich gelernt?
@@ -27,7 +27,7 @@ Schlussendlich muss man noch ein ezufäälige Zahl generieren mit dem Maximalwer
 
 Kleiner Text, der Beschreibt wie eine Random Zahl funktioniert und wie man einen vom Benutzer eingegebenen Wert als Maximalwert verwendet werden kann.
 
-Screenshot welcher Code zeigt
+Screenshot welcher Code zeigt.
 
 Gif welches den Ablauf zeigt wie ich eine Random Zahl programmiere und diese dann Ausgebe.
 
