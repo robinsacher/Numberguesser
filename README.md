@@ -78,11 +78,11 @@ Ich habe mich dazu entschieden, dass der Spieler seinen Zahlenbereich in dem er 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  | 30.08.2022  |  Eingegebene Zahl ist automatisch die Zahl die erraten werden muss.   |   Sacher  |
-| 1.2  |
-| 1.3  | 06.09.2022  |  Stopuhr wird gestartet    |   Sacher     |
+| 1.2  | 06.09.2022  |  Stopuhr wird gestartet                              |   Sacher      |
+| 1.3  | 13.09.2022  |  Es wird keine random Zahl generiert                 |   Sacher  |
 | 1.4  | 13.09.2022  |  Es wird gesagt ob die eingegeben Zahl zu klein ist. | Sacher | 
 | 1.5  | 13.09.2022  |  Es wird gesagt ob die einegebene Zahl zu gross ist. | Sacher | 
-| 1.6  | 13.09.2022  | Es wird gesagt  ob die eingegebene Zahl der random Zahl entspricht. | Sacher | 
+| 1.6  | 13.09.2022  |  Es wird gesagt  ob die eingegebene Zahl der random Zahl entspricht. | Sacher | 
 
 
 Fazit: Mein Projekt war meiner meinung erfolgreicht, obwohl am Ende das Programm nicht so funktioniert wie es sollte, sondern weil ich sehr viel bei diesem Projekt gekernt habe und Vieles für die nächsten Pojekte mitnehmen werde.
@@ -91,8 +91,10 @@ Fazit: Mein Projekt war meiner meinung erfolgreicht, obwohl am Ende das Programm
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |Programm wird getartet | der Zahlenbereich in dem man spielen möchte.       |    Es generiert eine zufällige Zahl zwischen 1 und der eingegebenen Zahl.             |      Die eingegebene zahl ist automatisch die Zahl                |
-| II   |              |         |                   |                      |
+| I    | Programm wird getartet | Der Zahlenbereich in dem man spielen möchte.|Es generiert eine zufällige Zahl zwischen 1 und der eingegebenen Zahl.|Die eingegebene zahl ist automatisch die Zahl welche man eingegeben hat.| 
+| II  |        Man wird dazu aufgefordert eine Zahl einzugeben      |   z.B. 0000000000000000000000|Zahl zu klein|Programm stürzt ab. |
+
+Getestet von Julian Hitz
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
